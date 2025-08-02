@@ -7,6 +7,6 @@ For third approach, rearranged elements of input image inorder to completely per
 | Approach | Convolution time |
 | --- | --- |
 | Pytorch's implementation | 3.96 ms |
-| 7 nested for-loops | 11.9s |
+| 7 nested for-loops | 11.9 s |
 | Matmul approach with 2 nested for-loops | 16 ms| 
 | im2col based matmul approach | 8.31 ms |
